@@ -1,0 +1,46 @@
+{
+  "langName": "Қазақша",
+  "meta": {
+    "title": "Әзірлеушінің портфолиосы & түйіндемесі",
+    "description": "Next.js 16 және shadcn/ui негізіндегі заманауи әзірлеушінің портфолио және түйіндеме сайты"
+  },
+  "nav": {
+    "home": "Басты бет",
+    "about": "Мен туралы",
+    "skills": "Дағдылар",
+    "projects": "Жобалар",
+    "contact": "Байланыс"
+  },
+  "hero": {
+    "greeting": "Сәлем! Мен әзірлеушімін",
+    "role": "Fullstack / Frontend Engineer",
+    "description": "Next.js, React, TypeScript және Tailwind CSS сияқты заманауи технологиялармен жылдам, сенімді және ыңғайлы веб-қосымшалар жасаймын.",
+    "contactBtn": "Хабарласу",
+    "resumeBtn": "Түйіндемені жүктеу",
+    "githubBtn": "GitHub профилі"
+  },
+  "about": {
+    "title": "Мен туралы",
+    "content": "Заманауи веб-қызметтер мен пайдаланушы интерфейстерін жасауға құштар маманмын. Таза әрі тиімді код жазуды және сенімді архитектура құруды басты назарда ұстаймын."
+  },
+  "skills": {
+    "title": "Технологиялар мен дағдылар",
+    "frontend": "Frontend: Next.js 16, React 19, TypeScript, Tailwind CSS, shadcn/ui",
+    "backend": "Backend & Құралдар: Node.js, PostgreSQL, Docker, Git, CI/CD Actions"
+  },
+  "projects": {
+    "title": "Жобалар",
+    "p1_title": "International Portfolio Scaffold",
+    "p1_desc": "GitHub Pages-ке арналған екі тілді статикалық каркас (Next.js 16, shadcn/ui және ұлттық раннер ойыны).",
+    "p2_title": "Web Application Architecture",
+    "p2_desc": "Заманауи модульдік веб-жүйе мен компоненттер архитектурасы."
+  },
+  "contact": {
+    "title": "Байланыс",
+    "description": "Жаңа жобалар, идеялар және қызықты ұсыныстар үшін әрдайым ашықпын.",
+    "sendEmail": "Хат жазу"
+  },
+  "footer": {
+    "copyright": "Барлық құқықтар қорғалған."
+  }
+}

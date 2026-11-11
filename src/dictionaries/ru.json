@@ -1,0 +1,46 @@
+{
+  "langName": "Русский",
+  "meta": {
+    "title": "Портфолио & Резюме разработчика",
+    "description": "Персональный сайт-портфолио и резюме современного разработчика на Next.js 16 и shadcn/ui"
+  },
+  "nav": {
+    "home": "Главная",
+    "about": "Обо мне",
+    "skills": "Навыки",
+    "projects": "Проекты",
+    "contact": "Контакты"
+  },
+  "hero": {
+    "greeting": "Привет! Я разработчик",
+    "role": "Fullstack / Frontend Engineer",
+    "description": "Создаю быстрые, масштабируемые и красивые веб-приложения с использованием современного стека технологий: Next.js, React, TypeScript и Tailwind CSS.",
+    "contactBtn": "Связаться со мной",
+    "resumeBtn": "Скачать резюме",
+    "githubBtn": "GitHub профиль"
+  },
+  "about": {
+    "title": "Обо мне",
+    "content": "Увлеченный разработчик с опытом создания современных веб-сервисов и пользовательских интерфейсов. Стремлюсь писать чистый, поддерживаемый код и проектировать надежные архитектурные решения."
+  },
+  "skills": {
+    "title": "Технологический стек",
+    "frontend": "Frontend: Next.js 16, React 19, TypeScript, Tailwind CSS, shadcn/ui",
+    "backend": "Backend & Tools: Node.js, PostgreSQL, Docker, Git, CI/CD Actions"
+  },
+  "projects": {
+    "title": "Проекты",
+    "p1_title": "International Portfolio Scaffold",
+    "p1_desc": "Высокопроизводительный двуязычный каркас для GitHub Pages со статическим экспортом Next.js 16 и игрой-пасхалкой.",
+    "p2_title": "Web Application Architecture",
+    "p2_desc": "Масштабируемая модульная система с современным UI и чистой архитектурой компонентов."
+  },
+  "contact": {
+    "title": "Связаться",
+    "description": "Всегда открыт для новых предложений, совместных проектов и интересных задач.",
+    "sendEmail": "Написать на почту"
+  },
+  "footer": {
+    "copyright": "Все права защищены."
+  }
+}
